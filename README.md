@@ -18,4 +18,4 @@ This all happens with a very simple educational hardware language. (NOT verilog)
 Though abstraction is probably the most important thing in CS, \
 sometimes you wonder how things actually work underneath.
 
-##[Certificate](https://github.com/PeterYaoNYU/Nand2Tetris/blob/master/Nand2TetrisPar1_certificate(1).pdf)
+## [Certificate](https://github.com/PeterYaoNYU/Nand2Tetris/blob/master/Nand2TetrisPar1_certificate(1).pdf)
