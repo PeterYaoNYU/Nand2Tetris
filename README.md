@@ -1,7 +1,7 @@
 # Nand2Tetris
 Architecture: building a working computer from NAND gates\
 https://www.nand2tetris.org/  \
-https://www.coursera.org/learn/build-a-computer  \
+https://www.coursera.org/learn/build-a-computer  
 
 This is the repo for my lab assignments when I am taking the first half of Nand2Tetris on coursera.
 This happened several months ago, right after I finished the final and have nothing better to do in the lockdown\
