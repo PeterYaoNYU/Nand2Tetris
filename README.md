@@ -16,4 +16,6 @@ There is also a task to build a monitor out of it but it didn't impress me much.
 This all happens with a very simple educational hardware language. (NOT verilog)
 
 Though abstraction is probably the most important thing in CS, \
-sometimes you wonder how things actually work underneath.\
+sometimes you wonder how things actually work underneath.
+
+![alt text](
